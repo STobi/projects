@@ -1,3 +1,5 @@
+# CAN BE RUN HERE: http://www.codeskulptor.org/#user47_2F57Hxdw5D_7.py
+
 # Implementation of classic arcade game Pong
 
 import simplegui
